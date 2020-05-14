@@ -1,5 +1,4 @@
 # classifier_pacman
-
 For this project, I will implement a naive bayesian classifier. I will use this classifier in some code that has to make a decision. The code will be controlling Pacman, in the classic game, and the decision will be about how Pacman chooses to move. However, it probably won’t help Pacman to make particularly good decisions.
 
 ## Environment
